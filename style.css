@@ -1,3 +1,13 @@
+body {
+  background-color: #fbfbfb;
+  color: darkslategray;
+}
+
 bold {
   font-weight: 900;
+  color: tomato;
+}
+
+p {
+  font-size: 24px;
 }
